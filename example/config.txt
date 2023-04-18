@@ -1,0 +1,2 @@
+Prefix plugins/ZeroPercent/example/
+Plugin ZeroPercent inputfile parameters.txt outputfile none

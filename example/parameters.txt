@@ -1,0 +1,4 @@
+abund	sample.otu.csv
+twocol	sample.data.twocol.csv
+control	"A"
+case	"B"
